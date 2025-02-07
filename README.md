@@ -1,4 +1,4 @@
-# 🏙️ Chicago Airbnb & CTA Interactive Map
+# 🏙️ Chicago CTA Interactive Map
 
 Explore the interactive **Chicago CTA Train Stations Map** directly in your browser! 🚇🏠
 
